@@ -35,4 +35,3 @@ This is just the beginning! You can extend the functionality with:
 Timers for each question to create a sense of urgency and excitement.
 Background music or sound effects to enhance the overall experience.
 Explanations for answers (both correct and incorrect) to transform the quiz into a learning tool.
-This project was inspired and created by following GreatStack tutorial 
